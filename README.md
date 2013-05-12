@@ -1,4 +1,10 @@
-tests
+Tests
 =====
 
-Problem solving tests.
+A random suite of problem solving.
+
+### Running the tests
+
+```bash
+$ phpunit .
+```
